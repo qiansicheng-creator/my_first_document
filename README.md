@@ -1,1 +1,1 @@
-# my_first_document
+# 这是用C++编写的扫雷的益智小游戏
